@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onesmus-dev
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python machinelearning 
-- 💞️ I’m looking to collaborate on enthuasitic person to create greate projects 
+- 💞️ I’m looking to collaborate on enthusiastic person to create greate projects 
 - 📫 How to reach me Jeradembuvy@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
